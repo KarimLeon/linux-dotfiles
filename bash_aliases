@@ -2,6 +2,7 @@ alias v='vim'
 alias c='clear'
 alias gch='google-chrome'
 alias open='gio open'
+alias gen-key='ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519 -C "leon.karim08@gmail.com"'
 
 #sudo 
 alias suvi='sudo vim'
