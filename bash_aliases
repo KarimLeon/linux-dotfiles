@@ -3,6 +3,8 @@ alias c='clear'
 alias gch='google-chrome'
 alias open='gio open'
 alias gen-key='ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519 -C "leon.karim08@gmail.com"'
+alias ct='lolcat'
+alias b='brave-browser'
 
 #sudo 
 alias suvi='sudo vim'
