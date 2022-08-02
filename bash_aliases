@@ -10,7 +10,7 @@ alias t='tar -xvf'
 #sudo 
 alias suvi='sudo vim'
 alias sd='sudo shutdown -P now'
-alias install='sudo apt install'
+alias install='sudo nala install'
 alias purge='sudo apt purge --auto-remove'
 alias up='sudo apt update'
 alias upg='sudo apt upgrade'
