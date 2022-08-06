@@ -7,6 +7,7 @@ alias peep='lolcat'
 alias b='brave-browser'
 alias t='tar -xvf'
 alias gtw='gnome-tweaks'
+alias gshot='gnome-screenshot -d 10 -f'
 
 #sudo 
 alias suvi='sudo vim'
