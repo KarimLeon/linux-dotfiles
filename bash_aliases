@@ -11,7 +11,7 @@ alias gshot='gnome-screenshot -d 10 -f'
 
 #sudo 
 alias suvi='sudo vim'
-alias sd='sudo shutdown -P now'
+alias sd='poweroff'
 alias install='sudo nala install'
 alias purge='sudo apt purge --auto-remove'
 
