@@ -8,9 +8,12 @@ alias b='brave-browser'
 alias t='tar -xvf'
 alias gtw='gnome-tweaks'
 alias gshot='gnome-screenshot -d 10 -f'
+alias s='batcat'
+alias wifi='nmcli dev wifi'
 
 #sudo 
 alias suvi='sudo vim'
+alias snapsh='sudo timeshift --create --comments "update snapshot" --tags o'
 alias sd='poweroff'
 alias install='sudo nala install'
 alias purge='sudo apt purge --auto-remove'
