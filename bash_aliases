@@ -10,6 +10,7 @@ alias gtw='gnome-tweaks'
 alias gshot='gnome-screenshot -d 10 -f'
 alias s='batcat'
 alias wifi='nmcli dev wifi'
+alias use='nmcli dev wifi connect'
 
 #sudo 
 alias suvi='sudo vim'
