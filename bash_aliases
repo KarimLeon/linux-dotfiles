@@ -16,6 +16,7 @@ alias use='nmcli dev wifi connect'
 alias suvi='sudo vim'
 alias snapsh='sudo timeshift --create --comments "update snapshot" --tags o'
 alias sd='poweroff'
+alias upd='sudo nala update'
 alias install='sudo nala install'
 alias purge='sudo apt purge --auto-remove'
 
@@ -23,3 +24,4 @@ alias purge='sudo apt purge --auto-remove'
 alias ga="git add"
 alias com="git commit -m"
 alias push="git push origin"
+
