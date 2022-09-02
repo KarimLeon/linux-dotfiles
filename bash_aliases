@@ -11,8 +11,9 @@ alias gshot='gnome-screenshot -d 10 -f'
 alias s='batcat'
 alias wifi='nmcli dev wifi'
 alias use='nmcli dev wifi connect'
-alias upg?='nala list --upgradable'
 alias x='exit'
+alias upg?='nala list --upgradable'
+alias os='cat /etc/os-release  | grep -i "PRETTY_NAME" | cut -c 14-31'
 
 #sudo 
 alias suvi='sudo vim'
